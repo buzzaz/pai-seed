@@ -1,0 +1,29 @@
+# Credentials and API keys
+secrets/
+
+# Data stores (stays local per PAI boundary)
+data/
+
+# Staging area for data ingestion
+load/
+
+# Task-produced deliverables
+outputs/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Office temp files
+*.xlsx
+*.~lock.*
+
+# Claude Code local settings and worktrees
+.claude/settings.local.json
+.claude/worktrees/
+
+# Exports
+exports/

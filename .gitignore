@@ -27,3 +27,6 @@ __pycache__/
 
 # Exports
 exports/
+
+# Kwaai overlay (README, LICENSE, scaffolding for nursery distribution)
+.kwaai-overlay/

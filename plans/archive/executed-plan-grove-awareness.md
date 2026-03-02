@@ -10,7 +10,7 @@ The PAI Seed is the irreducible kernel -- 2 files, everything else emerges from 
 
 Adding grove awareness to the seed is not adding infrastructure. It is adding vocabulary -- the minimum conceptual frame so that when the principal says "connect this to my other PAI" or "share this pattern with the community," the tree has language for what is happening.
 
-The ms-os -> gg-os seeding event (2026-03-01) demonstrated that substrate connections emerge naturally. The seed should be ready for them conceptually, even if structurally they arrive later.
+An early cross-tree seeding event demonstrated that substrate connections emerge naturally. The seed should be ready for them conceptually, even if structurally they arrive later.
 
 ## Current State
 
@@ -52,9 +52,9 @@ They may tend other trees -- for other domains, teams, or communities. If they m
 
 - tree.md
 - CLAUDE.md
-- ms-os plan: Substrate Framework (paired -- this plan adds seed-level awareness of concepts formalized in ms-os)
-- PAI Sapling plan: Grove Awareness (sibling -- same concepts, adapted to sapling context)
+- Source tree's Substrate Framework plan (paired -- this plan adds seed-level awareness of concepts formalized in the source tree)
+- PAI Sapling: Grove Awareness (sibling -- same concepts, adapted to sapling context)
 
 ## Trigger
 
-Next revision of the PAI Seed, or when preparing seeds for distribution to a new grove (Kwaai, Revenium team, family).
+Next revision of the PAI Seed, or when preparing seeds for distribution to new groves.

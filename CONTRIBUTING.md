@@ -26,7 +26,7 @@ Typos, broken links, unclear language, incorrect instructions. Standard open sou
 ## What We Do Not Accept
 
 - **Domain-specific content** -- The seed is domain-agnostic. Boughs, knowledge bases, and domain processes belong in your tree, not the seed.
-- **Opinionated tooling** -- The seed names concepts (surfaces, roots) without prescribing specific tools. Contributions that assume a specific AI provider, editor, or platform will not be merged.
+- **Opinionated tooling** -- The seed names concepts (surfaces, roots) without prescribing specific tools. Contributions that assume a specific AI provider, editor, or platform will not be merged. Contributions that enable usuers on more surfaces will be welcomed. This project is currently in voilation of this rule. A priority will be to extend surfaces and roots, including KwaaiNet.
 - **Speculative structure** -- The seed follows the Bonsai Principle: structure grows from demonstrated need. Additions must be backed by real operational use, not theoretical value.
 
 ## How to Contribute
@@ -79,3 +79,4 @@ Contributions to this nursery follow the substrate flow model:
 | Private data | Never flows | Your contacts, domain knowledge, vocabulary |
 
 The nursery grows when Principals share what works. Your private data stays in your tree.
+

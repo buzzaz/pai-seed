@@ -61,7 +61,7 @@ The seed grows structure from demonstrated need, not from planning:
 - **Sessions 5-20** -- Domains emerge as boughs. Processes are written when their absence causes friction.
 - **Beyond** -- The system operates. Improvements come from operational friction, not planning.
 
-This is the Bonsai Principle: grow what you need to accomplish more of what you are trying to do. No more.
+This is the Bonsai Principle: grow what you need to accomplish more as what you are trying to do. No more.
 
 ## Project Structure
 
